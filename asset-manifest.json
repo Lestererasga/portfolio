@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f2eae586.css",
-    "main.js": "/portfolio/static/js/main.50958f7c.js",
+    "main.js": "/portfolio/static/js/main.bab7f7b1.js",
+    "static/media/kharedi.png": "/portfolio/static/media/kharedi.ea50d3423220b18b59fb.png",
+    "static/media/sand.png": "/portfolio/static/media/sand.1c621e395139334b7461.png",
     "static/media/bnp.png": "/portfolio/static/media/bnp.52997dd1adc6e2a77516.png",
     "static/media/ivc.png": "/portfolio/static/media/ivc.50ef5f4c733e4da3861f.png",
     "static/media/uccp.png": "/portfolio/static/media/uccp.3b3ad9c63ee92666915b.png",
     "static/media/imagine.mp4": "/portfolio/static/media/imagine.4c8939f28d108ebcacdb.mp4",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.094f1d007cfc53ec0fc8.pdf",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.50d0740240859c527f3f.pdf",
     "static/media/Lester2.png": "/portfolio/static/media/Lester2.fa06e2eef9cfb6e2c4fc.png",
     "static/media/lester3.jpg": "/portfolio/static/media/lester3.7c0e0cb7f66aa11a4f1b.jpg",
     "static/media/sun.png": "/portfolio/static/media/sun.f794832ad72b90c61eb7.png",
     "static/media/moon.png": "/portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/portfolio/index.html",
     "main.f2eae586.css.map": "/portfolio/static/css/main.f2eae586.css.map",
-    "main.50958f7c.js.map": "/portfolio/static/js/main.50958f7c.js.map"
+    "main.bab7f7b1.js.map": "/portfolio/static/js/main.bab7f7b1.js.map"
   },
   "entrypoints": [
     "static/css/main.f2eae586.css",
-    "static/js/main.50958f7c.js"
+    "static/js/main.bab7f7b1.js"
   ]
 }
