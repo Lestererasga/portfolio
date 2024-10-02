@@ -1,13 +1,13 @@
-import React from 'react'
-import './about.css'
-import ME from '../../assets/lester3.jpg'
-import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import React from "react";
+import "./about.css";
+import ME from "../../assets/lester3.jpg";
+import { FaAward } from "react-icons/fa";
+import { FiUsers } from "react-icons/fi";
+import { VscFolderLibrary } from "react-icons/vsc";
 
 const about = () => {
   return (
-    <section id='about'>
+    <section id="about">
       <h5>Get To Know</h5>
       <h2>About Me</h2>
 
@@ -20,31 +20,39 @@ const about = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
-              <FaAward className='about__icon' size={30}/>
+              <FaAward className="about__icon" size={30} />
               <h5>Experience</h5>
-              <small>6+ Years Working</small>
+              <small>7+ Years Working</small>
             </article>
             <article className="about__card">
-              <FiUsers className='about__icon' size={30}/>
+              <FiUsers className="about__icon" size={30} />
               <h5>Clients</h5>
-              <small>3 Clients</small>
+              <small>5 Clients</small>
             </article>
             <article className="about__card">
-              <VscFolderLibrary className='about__icon' size={30}/>
+              <VscFolderLibrary className="about__icon" size={30} />
               <h5>Projects</h5>
-              <small>3 Completed</small>
+              <small>5 Completed</small>
             </article>
           </div>
 
           <p>
-          A tech-savvy professional who pursues a deeper understanding of all things technology. With all of the skills needed in the world of development such as problem solving, analysis and creative thinking. Always being up for any challenge, there is no task that can't be done for a true professional. 
+            A dynamic web developer with a passion for technology, I thrive on
+            creating seamless digital experiences that captivate users. By
+            merging analytical problem-solving with innovative design, I deliver
+            robust, scalable websites tailored to meet diverse client needs.
+            Always eager to embrace new challenges, I continuously seek
+            opportunities to expand my skill set and enhance my craft, ensuring
+            every project reflects the ultimate in quality and functionality.
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default about
+export default about;
